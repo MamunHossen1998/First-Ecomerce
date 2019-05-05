@@ -14,6 +14,7 @@ $after_assoc=mysqli_fetch_assoc($result);
   <div class="row mt-4 ">
     <div class="col-md-10 m-auto">
       <h1 class="text-center bg-primary"> Student List </h1>
+      <h3>First github</h3>
       <br>
       <table class="table table-bordered bg-light">
         <tr>
